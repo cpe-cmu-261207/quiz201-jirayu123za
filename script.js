@@ -8,7 +8,12 @@ const color = document.querySelector('#color')
 
 btn_toggle.onclick = () => {
   // your code here
-  
 }
 
+function calculation(){
+  let id  = input.type
+}
+
+
 // more codes for Search and Reset buttons here
+btn_toggle.onclick.preventDefault();
